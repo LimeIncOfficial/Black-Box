@@ -45,7 +45,7 @@ Copy the config i3 config in `/Black-Box/.config/i3/config`, and then reload con
 Full package list can be found in `/Black-Box/packages/`
 and python packages in `/Black-Box/pip3Packages/`
 
-`sudo apt install bash-completion bash bc chromium amd64 compton colord ranger neofetch cmake cmake-data libcairo2-dev libxcb1-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-image0-dev libxcb-randr0-dev libxcb-util0-dev libxcb-xkb-dev pkg-config python3-xcbgen xcb-proto libxcb-xrm-dev i3-wm libasound2-dev libmpdclient-dev libiw-dev libcurl4-openssl-dev libpulse-dev libxcb-composite0-dev libjsoncpp-dev feh && sudo ln -s /usr/include/jsoncpp/json/ /usr/include/json `
+`sudo apt install bash-completion bash bc chromium amd64 compton colord ranger neofetch cmake cmake-data libcairo2-dev libxcb1-dev libxcb-ewmh-dev libxcb-icccm4-dev libxcb-image0-dev libxcb-randr0-dev libxcb-util0-dev libxcb-xkb-dev pkg-config python3-xcbgen xcb-proto libxcb-xrm-dev i3-wm libasound2-dev libmpdclient-dev libiw-dev libcurl4-openssl-dev libpulse-dev rofi libxcb-composite0-dev libjsoncpp-dev feh && sudo ln -s /usr/include/jsoncpp/json/ /usr/include/json `
 
 ## Polybar Setup
 
@@ -55,12 +55,22 @@ and python packages in `/Black-Box/pip3Packages/`
 
 `git clone --depth=1 https://github.com/adi1090x/polybar-themes.git`
 
-`cd polybar-themes
+`cd polybar-themes`
 `chmod +x setup.sh`
 
 `./setup.sh` 
 
+
 `bash ~/.config/polybar/launch.sh --hack` > Add this to your startup script of choice, I have yet to do that.
+
+## Rofi
+
+Rofi should be installed if your followed the package install correctly. Download this `https://github.com/sheepla/rofi-themes` and move `themes` into `$HOME/.config/rofi/` .
+Go to your rofi config and add `rofi.theme: /home/user/.config/rofi/themes/matcha-dark-aliz.rasi` 
+
+## Starship
+
+Follow this guide https://starship.rs/guide/#🚀-installation
 
 ## Other Setup/Debug
 
