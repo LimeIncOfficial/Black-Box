@@ -9,8 +9,8 @@
 # Whats is It?
 
 Black-Box is essentially a modified fork of parrot, you can use kali too since the setup will work accross all debian OS's (we just prefer those two in particular since they're more security oriented). 
-![[]](https://user-images.githubusercontent.com/81391176/160227588-3b45b4b8-5c76-46ec-9253-ff213a5b290d.png)
-![[https://github.com/LimeIncOfficial/Black-Box/blob/main/Screen_Shot_2022-03-17_at_8.00.58_PM.png?raw=true]]
+
+![[]](https://raw.githubusercontent.com/LimeIncOfficial/Black-Box/main/Screen_Shot_2022-03-17_at_8.00.58_PM.png)
 
 # Manager setup
 ## I3 
@@ -18,6 +18,7 @@ Black-Box is essentially a modified fork of parrot, you can use kali too since t
 `sudo shutdown -r now`
 
 You now should see a new windows manager appear when logging on.
+![[]](https://user-images.githubusercontent.com/81391176/160227588-3b45b4b8-5c76-46ec-9253-ff213a5b290d.png)
 
 According to the i3 wiki: "After the first login, each user will be prompted to have a configuration file generated for them such as **~ /.i3/config** or **~ /.config/i3/config** if this file still not exist. On fresh install it shouldn't, so pick **~ /.config/i3/config**.The prompt allows the user to select Alt or the Windows key (AKA Meta key, Start key) as the $Mod key for i3." Pick your preffered $MOD key.
 
