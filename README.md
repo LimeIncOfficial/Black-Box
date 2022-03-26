@@ -30,6 +30,8 @@ According to the i3 wiki: "After the first login, each user will be prompted to 
 
 ##  Dotfiles Download
 `git clone https://github.com/LimeIncOfficial/Black-Box.git`
+`unzip .config.zip`
+
 
 
 Copy the config i3 config in `/Black-Box/.config/i3/config`, and then reload configs with `$mod+Shift+c`
