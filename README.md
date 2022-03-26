@@ -1,3 +1,6 @@
+<h1 align="center">
+  Stealth Craft
+</h1>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/LimeIncOfficial/Black-Box/main/5d1f6c762bce1031a206b7eb453d22ab.jpg" height="230">
