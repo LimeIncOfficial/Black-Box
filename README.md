@@ -18,7 +18,8 @@ Black-Box is essentially a modified fork of parrot, you can use kali too since t
 `sudo shutdown -r now`
 
 You now should see a new windows manager appear when logging on.
-![[Screen Shot 2022-03-25 at 11.15.02 PM.png]]
+<a href="https://github.com/LimeIncOfficial/Black-Box/blob/main/Screen%20Shot%202022-03-25%20at%2011.15.02%20PM.png" width="500px" alt="Logo"></a>
+\
 
 According to the i3 wiki: "After the first login, each user will be prompted to have a configuration file generated for them such as **~ /.i3/config** or **~ /.config/i3/config** if this file still not exist. On fresh install it shouldn't, so pick **~ /.config/i3/config**.The prompt allows the user to select Alt or the Windows key (AKA Meta key, Start key) as the $Mod key for i3." Pick your preffered $MOD key.
 
