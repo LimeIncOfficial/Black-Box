@@ -9,7 +9,7 @@
 # Whats is It?
 
 Black-Box is essentially a modified fork of parrot, you can use kali too since the setup will work accross all debian OS's (we just prefer those two in particular since they're more security oriented). 
-![[https://github.com/LimeIncOfficial/Black-Box/blob/main/Screen%20Shot%202022-03-25%20at%2011.15.02%20PM.png?raw=true![image](https://user-images.githubusercontent.com/81391176/160227588-3b45b4b8-5c76-46ec-9253-ff213a5b290d.png)
+![[]](https://user-images.githubusercontent.com/81391176/160227588-3b45b4b8-5c76-46ec-9253-ff213a5b290d.png)
 
 # Manager setup
 ## I3 
