@@ -30,6 +30,7 @@ According to the i3 wiki: "After the first login, each user will be prompted to 
 
 ##  Dotfiles Download
 `git clone https://github.com/LimeIncOfficial/Black-Box.git`
+cd into Black Box and then
 `unzip .config.zip`
 
 
